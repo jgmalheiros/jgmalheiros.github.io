@@ -89,6 +89,7 @@ Para que duas biomoléculas interajam, é necessário que a água adsorvida nela
 ### Ionização de compostos químicos
 
 A água se ioniza espontaneamente, segundo à equação
+
 $$
 \ce {2H2O <=> H3O+ + OH-}\\
 ou, simplificadamente\\
@@ -111,6 +112,7 @@ Um pH muito baixo faz com que a substancia se encontre inteiramente em seu estad
 Ao acrescentar base ao estado inicial da solução, há um aumento rápido do pH, uma vez que o OH- reage com o H+ em excesso. Depois de certa quantidade de base adicionada, o ácido passa a se desprotonar, o que desacelera o aumento de pH do meio, uma vez que íons H+ passam a ser dispersos no meio, oferecendo "resistência" aos íons OH-
 
 Para saber a relação entre o pH e a concentração das espécies químicas, usa-se a equação de Henderson-Hasselbalch:
+
 $$
 pH = pK_a + log\frac{[A^-]} {[HA]}
 $$
