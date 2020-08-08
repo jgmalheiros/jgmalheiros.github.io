@@ -2,8 +2,9 @@
 
 import os
 
-for path, dirs, files in os.walk("1o Semestre"):
-    if ".assets" in path: pass
+for path, dirs, files in os.walk("."):
+    if path == ".": continue
+    if ".assets" in path: continue
     with open(path+"/index.md","w") as r:
         for i in sorted(dirs):
             if not ".assets" in i: r.write("[" + i + "](" + i + ")\n\n")
