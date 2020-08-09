@@ -69,3 +69,6 @@ Transporte de grandes substâncias. A célula forma vesículas com o corpo exter
 
 
 
+
+
+{% include lib/mathjax.html %}

@@ -17,3 +17,5 @@ O núcleo é composto pela cromatina mais ou menos condensada, formando a hetero
 ## Nucléolo
 
 Organela não separada por membrana. Tem a função de produzir ribossomos, então recebe proteínas do citoplasma e encaminha as subunidades menores e maiores do ribossomo.
+
+{% include lib/mathjax.html %}

@@ -2,6 +2,8 @@
 
 09/08/20
 
+Lenhinger - capitulo 3
+
 ---
 
 O estudo pode buscar entender uma série de características; para cada há um tipo de teste.
@@ -22,7 +24,7 @@ Coloca-se a mistura numa extremidade basica de um tubo com com gel cujo pH varia
 
 ### Gel bidimensional
 
-Associação da eletroforese com a focalização isoelétrica. O gel resultante da F.I. passa pelo processo da E.F. Assim, as proteínas são filtradas pelo seu ponto isoelétrico e pela sua massa
+Associação da eletroforese com a focalização isoelétrica. O gel resultante da F.I. passa pelo processo da E.F. Assim, as proteínas são filtradas pelo seu ponto isoelétrico e pela sua massa.
 
 ## Identificação de proteínas nas amostras
 
@@ -40,5 +42,22 @@ Para saber a sequência de aminoácidos, trata-se a proteína por um processo (*
 
 ### Espectrometria de massa
 
-Capaz de i
+Capaz de analisar a massa molar de cada substância
 
+## Síntese laboratorial de peptídeos
+
+A síntese *in vitro* é falha, pois o enovelamento *in vivo* nem sempre se repete *in vitro*.
+
+O mais comum é a síntese *in vivo*, que altera o genoma de microrganismos vivos para que eles produzam a substância desejada.
+
+## Sentenças
+
+### Verdadeira: Incidir luz e analisar o espectro de absorção pela proteína é um método válido para identificá-la.
+
+Cada proteína apresenta padrões típicos de absorção de luz para cada frequência. Portanto, medir a taxa de luz absorvida pela proteína é uma maneira de descobrir identificá-la.
+
+### Falsa: O isolamento de proteínas pela eletroforese separa as moléculas pelos seus pontos isoelétricos
+
+A eletroforese separa as proteínas tendo como base suas massas molares, não seus pontos isoelétricos.
+
+{% include lib/mathjax.html %}

@@ -45,3 +45,5 @@ Após traduzidas, as proteínas podem sofrer uma série de modificações. Elas 
 Destaque: **chaperonas**, proteínas que auxiliam no dobramento da molécula.
 
 As **histonas** sofrem uma série de modificações pós traducionais. A ligação ou a clivagem de grupos moleculares nas caudas das histonas fazem com que haja uma ligação mais forte ou mais fraca com o DNA, transformando-o em heterocromatina ou eucromatina e, consequentemente, alterando a expressão gênica. Metilações das citosinas no *GC Box* geram o mesmo efeito.
+
+{% include lib/mathjax.html %}

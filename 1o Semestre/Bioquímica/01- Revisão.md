@@ -199,4 +199,4 @@ Nesse caso, pode-se dizer que há dois equilíbrios ácido-base conjugados, ambo
 
 Ainda que os aminoácidos em si não encontrem-se descarregados, existe um ponto em que todos os aminoácidos apresentam uma carga positiva e uma negativa, ou seja, com carga resultante 0. 
 
-{% include mathjax.html %}
+{% include lib/mathjax.html %}

@@ -139,3 +139,5 @@ Em procariotos: **fatores de transcrição** regulam a síntese de RNA. Esses fa
 Em eucariotos: fatores de transcrição se ligam em regiões enhancers (quando auxiliam) ou silencers (quando inativam). Pode se encontrar anterior ou posterior ao
 
 A regulação se dá por meio da interferência por RNA. Os pequenos RNAs de interferência (siRNA) são capazes de inativar a transcrição gênica. Sequencias de RNA de fita dupla se associam com proteínas para formar o complexo silenciador. Quando o RNA do complexo consegue se parear perfeita ou imperfeitamente com algum RNAm, a proteína é capaz de inativar a síntese.
+
+{% include lib/mathjax.html %}
