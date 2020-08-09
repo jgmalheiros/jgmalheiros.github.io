@@ -60,4 +60,4 @@ Cada proteína apresenta padrões típicos de absorção de luz para cada frequ�
 
 A eletroforese separa as proteínas tendo como base suas massas molares, não seus pontos isoelétricos.
 
-{% include lib/mathjax.html %}
+{% include mathjax.html %}

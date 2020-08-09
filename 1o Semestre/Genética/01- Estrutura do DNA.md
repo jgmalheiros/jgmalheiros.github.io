@@ -90,4 +90,4 @@ Por meio da duplicação do material genético da célula, que permite que cada 
 
 A replicação do DNA, apesar de sua alta fidelidade, não é perfeita e, portanto, algumas diferenças podem existir entre as fitas molde e filhas. Essas alterações genéticas podem desencadear o surgimento de novas enzimas ou proteínas, que, se gerarem características úteis para a adaptação do indivíduo no meio, contribuem para a evolução da espécie.
 
-{% include lib/mathjax.html %}
+{% include mathjax.html %}

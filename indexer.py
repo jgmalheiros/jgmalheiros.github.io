@@ -22,4 +22,4 @@ def appender(texto):
                     w.write(texto)
 
 indexer()
-appender("\n\n{% include lib/mathjax.html %}")
+appender("\n\n{% include mathjax.html %}")

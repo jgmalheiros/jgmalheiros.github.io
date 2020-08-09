@@ -75,4 +75,4 @@ Devido a mudanças conformacionais da hemoglobina, a variação do θ entre o pu
 
 
 
-{% include lib/mathjax.html %}
+{% include mathjax.html %}
