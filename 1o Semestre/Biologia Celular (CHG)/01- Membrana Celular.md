@@ -30,7 +30,7 @@ Um fosfolipídeo importante nas células é a **fosfatidilserina**, que original
 
 Destaque: glicocálice. Associação de proteínas e carboidratos que tem papel de:
 
-* Adesão celular: falha: metastese de cancer
+* Adesão celular: falha: metátese de câncer
 * Reconhecimento celular: experimento de misturar celulas diferentes que se agrupam no final.
 * Inibição por contato: falha: cancer.
 
