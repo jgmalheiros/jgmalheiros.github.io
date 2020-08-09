@@ -6,8 +6,6 @@
 
 ---
 
-![image-20200805113651037](01- Membrana Celular.assets\image-20200805113651037.png)
-
 Ao microscópio eletrônico, são vistos como uma estrutura **trilaminar**: duas camadas escuras (partes polares) e uma camada clara (parte apolar). Isso é chamado de **UNIDADE DE MEMBRANA**.
 
 Há movimentação dos lipídeos na membrana:
@@ -27,6 +25,8 @@ As proteínas participam da movimentação celular, ancoragem, comunicação ent
 As proteínas possuem movimentação livre na membrana, uma vez que ela segue o modelo de "mosaico fluido".
 
 Os carboidratos podem se ligar aos lipídeos ou às proteínas. Auxiliam as proteínas nos seus papéis.
+
+Um fosfolipídeo importante nas células é a **fosfatidilserina**, que originalmente se concentra na camada interna da membrana devido a gasto energético. Quando essa molécula vai para a camada externa, sinaliza o processo de **apoptose**.
 
 Destaque: glicocálice. Associação de proteínas e carboidratos que tem papel de:
 
