@@ -16,7 +16,7 @@ Antigamente, era usada a coluna de cromatografia. As soluções para serem purif
 
 ### Eletroforese
 
-Cada amostra é aplicada em um gel e aplica-se um campo eletromagnético. Proteínas menores/com mais cargas percorrem uma maior distância e as maiores/com menos cargas, menor. Assim, forma-se bandas, pelas quais averigua-se a pureza e o conteudo da mistura. Aplicar **dodecil sulfato de sódio** garante que todas as proteínas apresentam carga negativa e mesma relação carga/massa fazendo com que só a massa interfira na velocidade.
+Cada amostra é aplicada em um gel e aplica-se um campo eletromagnético. Proteínas menores/com mais cargas percorrem uma maior distância e as maiores/com menos cargas, menor. Assim, forma-se bandas, pelas quais averigua-se a pureza e o conteudo da mistura. Aplicar **dodecil sulfato de sódio (SDS)** garante que todas as proteínas apresentam carga negativa e mesma relação carga/massa fazendo com que só a massa interfira na velocidade.
 
 ### Focalização isoelétrica
 
@@ -32,7 +32,7 @@ Uma vez que a substância é separada, é necessário averiguar a presença de c
 
 ### Princípio da Absorbância
 
-Cada proteína absorve determinada quantidade de luz em determinado espectro. Ao incidir luz monocromática em uma amostra, pode-se saber qual a proteína em questão.
+Cada proteína absorve determinada quantidade de luz em determinado espectro. Ao incidir luz monocromática em uma amostra, pode-se saber qual a proteína em questão. No entanto, o sistema pode não absorver a luz mesmo apresentando proteínas, ao usar uma frequência não absorvida pelos aminoácidos, e absorver sem  
 
 ### Identificação da estrutura primária
 
