@@ -24,7 +24,7 @@ A vascularização vem da derme, que também manda dutos para a derme.
 
 Pouco espessa, mas possui várias camadas:
 
-- Camada externa: córnea (cai)
+- Camada externa: córnea 
 - [Algumas outras; não caem]
 - Camada interna: camada basal. Os **melanócitos** se encontram nessa camada.
 
