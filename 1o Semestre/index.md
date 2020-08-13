@@ -4,5 +4,7 @@
 
 [Bioquímica](Bioquímica)
 
+[Embriologia](Embriologia)
+
 [Genética](Genética)
 

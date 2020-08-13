@@ -105,4 +105,6 @@ Junções específicas encontradas na parte basal de uma célula, ligando-a ao t
 
 Composto por **conexons**, ligações entre as moléculas às vizinhas. Cada conexon é composto por 2 conectinas. O poro central pode ser aberta e fechada a depender de estímulos externos. Permite a passagem de moléculas relativamente pequenas.
 
+
+
 {% include mathjax.html %}
