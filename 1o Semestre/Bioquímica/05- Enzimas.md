@@ -15,13 +15,11 @@ Há um codigo que classifica as enzimas, no formato A.B.C.D. A é a classe da en
 5. Isomerases
 6. Ligases
 
-As enzimas atuam reduzindo a energia de aticação necessária para transformar os reagentes nos produtos, não sendo alterada ao fim do processo.
+As enzimas atuam reduzindo a energia de ativação necessária para transformar os reagentes nos produtos, não sendo alterada ao fim do processo.
 
 A velocidade de qualquer reação é dada por V = k • [A] • [B] ... Inerente ao k é a velocidade de ativação da reação. Assim, a relação do k da reação catalizada e o k da reação normal temos uma razão de quão mais eficientes são as reações caralizadas (em torno de 10^{10}). A constante de equilíbrio, entretanto, não se relaciona com enzimas.
 
 O modelo mais aceitado atualmente diz que no estado de transição enzima e substratos estão em seus estados de maior complementariedade. 
-
-
 
 ## Análise qualitativa das enzimas
 
@@ -60,5 +58,25 @@ V_0 = \frac{V_{max}[S]}{K_m+[S]}
 $$
 
 Pela equação, quando a velocidade inicial é metade da velocidade máxima, a constante de Michaelis é igual a [S]. 
+
+K2 é também chamado de Kcat, ou, quando as enzimas estão saturadas, **número de renovação**, uma vez que mede a frequência em que a enzima pode ser reutilizada. Para comparar a eficiencia de duas enzimas usa-se a relação entre Kcat e Km.
+
+## Afirmativas:
+
+**Verdadeira:** As enzimas alteram a constante da reação química, alterando assim as velocidades dela.
+
+Analisando  a constante da reação química, vemos que ela depende da energia de ativação da reação. Como as enzimas alteram a energia de ativação, alterarão também a constante.
+
+**Falsa:** Enzimas atuam aumentando a constante de equilíbrio no sentido direto, o que gera o aumento na produção do produto
+
+Enzimas não alteram a constante de equilíbrio, sim a energia de ativação da reação.
+
+**Verdadeira:** A Kcat dá o número de vezes que a enzima pode ser utlizada em um período de tempo
+
+Sim, a Kcat é chamada de número de renovação devido a sua capacidade de medir a frequência de reutilzação enzimática
+
+**Falsa:** Pode-se dizer que a equação está em seu estado estacionário quando a concentração de produtos e de reagentes não varia.
+
+Nessa condição, a reação está em estado de equiíbrio, não em estado estacionário. Ela está em estado estacionário quando as velocidades de formação e consumo de seu intermediário anterior à etapa lenta são iguais.
 
 {% include mathjax.html %}
