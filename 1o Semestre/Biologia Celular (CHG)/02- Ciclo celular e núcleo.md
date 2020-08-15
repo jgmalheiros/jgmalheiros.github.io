@@ -14,6 +14,8 @@ Proteínas chamadas **cilcinas** controlam o ciclo celular. As ciclinas G1 e mit
 
 O núcleo é composto pela cromatina mais ou menos condensada, formando a hetero e a eucromatina, respectivamente. Há também o nucléolo. Poros nucleares permitem a passagem de algumas substancias. O envoltório nuclear apresenta duas camadas, sendo a externa ligada ao retículo endoplasmática. e a interna com a presença de proteínas que se ligam à cromatina.
 
+Entre as duas camadas há o **espaço perinuclear**, uma cavidade. Ligado à membrana interna do núcleo há  a **lâmina nuclear**
+
 ## Nucléolo
 
 Organela não separada por membrana. Tem a função de produzir ribossomos, então recebe proteínas do citoplasma e encaminha as subunidades menores e maiores do ribossomo.
