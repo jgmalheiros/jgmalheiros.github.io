@@ -8,3 +8,7 @@
 
 [05- Enzimas](05- Enzimas.html)
 
+[06- Princípios de bioenergética](06- Princípios de bioenergética.html)
+
+[07- Estrutura e função de carboidratos](07- Estrutura e função de carboidratos.html)
+
