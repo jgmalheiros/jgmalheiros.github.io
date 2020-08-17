@@ -17,7 +17,7 @@ Há um codigo que classifica as enzimas, no formato A.B.C.D. A é a classe da en
 
 As enzimas atuam reduzindo a energia de ativação necessária para transformar os reagentes nos produtos, não sendo alterada ao fim do processo.
 
-A velocidade de qualquer reação é dada por V = k • [A] • [B] ... Inerente ao k é a velocidade de ativação da reação. Assim, a relação do k da reação catalizada e o k da reação normal temos uma razão de quão mais eficientes são as reações caralizadas (em torno de 10^{10}). A constante de equilíbrio, entretanto, não se relaciona com enzimas.
+A velocidade de qualquer reação é dada por $V = k[A][B]$ ... Inerente ao k é a velocidade de ativação da reação. Assim, a relação do k da reação catalizada e o k da reação normal temos uma razão de quão mais eficientes são as reações catalizadas (em torno de $10^{10}$). A constante de equilíbrio, entretanto, não se relaciona com enzimas.
 
 O modelo mais aceitado atualmente diz que no estado de transição enzima e substratos estão em seus estados de maior complementariedade. 
 

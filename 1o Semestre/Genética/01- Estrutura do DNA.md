@@ -46,7 +46,7 @@ As fitas de DNA são anti-paralelas, isto é, a extremidade 5' de uma fita se li
 
 ### Sulcos do DNA
 
-![image-20200803163628443](C:\Users\jgmal\Documents\Anotações\1o Semestre\Genética\01- Estrutura do DNA.assets\image-20200803163628443.png)
+![image-20200803163628443](01- Estrutura do DNA.assets\image-20200803163628443.png)
 
 Devido ao giro das fitas de DNA, forma-se sulcos menores e maiores na molécula. Nos sulcos maiores, há maior atividade metabólica que na menor.
 
@@ -66,7 +66,7 @@ Ocorre o **desenrolamento** da fita dupla para que as proximas enzimas se acople
 
 A enzima primase sintetiza uma pequena fita de RNA em certas regiões da molécula, para que a DNA-polimerase possa adicionar os novos nucliotídios na extremidade 3'.
 
-Em cada forquilha de replicação, há uma fita líder, em que o crescimento da fita se dá no mesmo sentido em qua a helicase extende a forquilha, e a fita tardia, em que o cresicmento se dá no sentido inverso. Nessa última, o crescimento se dá em **fragmentos de Okazaki**, já que uma serie de primases têm de atuar. No entando, cada bolha possui duas forquilhas, uma que se extende para cada lado, então, se em um lado uma fita é a principal, no outro ela é a tardia.
+Em cada forquilha de replicação há uma fita líder, em que o crescimento da fita se dá no mesmo sentido em qua a helicase extende a forquilha, e a fita tardia, em que o cresicmento se dá no sentido inverso. Nessa última, o crescimento se dá em **fragmentos de Okazaki**, já que uma serie de primases têm de atuar. No entando, cada bolha possui duas forquilhas, uma que se extende para cada lado, então, se em um lado uma fita é a principal, no outro ela é a tardia.
 
 ### Terminação
 
