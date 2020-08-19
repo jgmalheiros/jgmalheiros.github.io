@@ -43,7 +43,7 @@ Os **microtúbulos estáveis** participam de cílios e flagelos; centíolos e co
 
 #### Cílios e flagelos
 
-9 pares periféricos e 2 microtúbulos centrais: **Axonema**. Cada par é formado por um microtúbulo A, com 13 protofilamentos e um B, com 10. Proteínas se ligam aos axonemas: **proteínas radiais** direcionam MtA para o centro; **nexinas** ligam o MtB ao MtA do par adjacente; **dineína** promove o movimento dos microtúbulos e **tubulina** promove a ligação dos protofilamentos à base.
+9 pares periféricos e 2 microtúbulos centrais: **Axonema**. Cada par é formado por um microtúbulo A, com 13 protofilamentos e um B, com 10. Proteínas se ligam aos axonemas: **proteínas radiais** direcionam MtA para o centro; **nexinas** ligam o MtB ao MtA do par adjacente; **dineína** promove o movimento dos microtúbulos e **tubulina** promove a ligação dos protofilamentos à base. Formados a partir do **corpúsculo basal**
 
 O movimento se dá quando a dineína desliza um microtúbulo sobre o adjacente. Devido às ligações entre os microtubulos, não ocorre deslizamento, sim a dobra do cilio ou flagelo.
 
@@ -63,11 +63,15 @@ São proteínas fibrosas, compostas por um cerne de 3 monomeros de actina globul
 
 São divididos em **corticais**, relacionados a movimentos da membrana (endocitose, movimentos amebóides, etc) e **transcelulares**, distribuidos no citoplasma. 
 
+Filamentos de actina formam uma **trama terminal**, que sustenta outras esrtuturas de actina, comomicrovilosidades. A trama terminal se sustenta nas **zônulas de adesão**
+
 A actina pode se associar com a miosina nos músculos e na formação de um anel que separa as células ao fim da mitose
 
 ## Filamentos intermediários
 
 Formados por polímeros em α-hélice. Duas moléculas pequenas (7 aminoácidos) se juntam formando dímeros, que se juntam em tetrômeros, que se encadeiam formando protofilamentos e, mais uma vez, se associam, formando os filamentos intermediários.
+
+Filamentos são sustentados nos **desmossomos**
 
 São estáveis, então apresentam função de sustentação. São 5 classes
 
