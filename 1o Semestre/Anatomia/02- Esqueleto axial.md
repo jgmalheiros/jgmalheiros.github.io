@@ -92,19 +92,25 @@ Atípicas:
 * Axis: articula com atlas. Apresenta articulação **atlanto-axial** que permite girar a cabeça
 * C7: Forame transverso não passa artéria, processo espinhoso é mais alongado.
 
+Entre o axis é impedido de deslizar anteriormente, devido ao contato entre o dente e o arco anterior, e posteriormente, devido ao **ligamento transverso do atlas**, uma estrutura fibrosa que liga as duas massas laterais.
+
+Em todos os forames EXCETO A C7 passa a **artéria vertebral** 
+
 ## Vértebras torácicas
 
 O comprimentodo corpo  é maior ou igual à largura. Há a presença de fóveas e hemifóveas, para articular com costelas. Processo espinhoso longo e em declive, protegendo o canal medular. Há um processo articular verticalizado e latero-lateral (olhando para você), que impede o giro.
 
 ## Vértebras lombares
 
-Comprimento do corpo menor ou igual a largura. Processos transversos firmes; processo espinhoso curto para serem mais resistentes. Processos articulares superiores verticalizados antero-posteriores (olhando um para o outro)
+Comprimento do corpo menor ou igual a largura. Processos transversos firmes; processo espinhoso curto para serem mais resistentes. Processos articulares superiores verticalizados antero-posteriores (olhando um para o outro).
+
+Possuem 
 
 A medula espinhal só vai até L1/L2. Ocorre porque a coluna cresce mais que a medula ao longo da vida.
 
 ## Sacro e cóccix
 
-Vertebras S1-S5 é fundida. Forames sacrais fazem papel dos forames vertebrais.Pelo canal sacral passa a cauda equina. Duas faces auriculares que articulam com a pelve.
+Vertebras S1-S5 é fundida. Forames sacrais fazem papel dos forames vertebrais. Cristas transversais demarcam a passagem entre cada vertebra fusionada. Pelo canal sacral passa a cauda equina. Duas faces auriculares que articulam com a pelve. **Promontório** é util na obstetricia. A **crista mediana** é a fusão dos processo espinhosos. Cristas mediais encontram-se mais ao lado, formadas pela fusão dos processos articulados. **Cristas laterais** são originadas pela fusão dos processos transversos.
 
 Vértebras coccígenas 1-3 fundidas. Há ligamento coccigeno que o liga ao sacro.
 
@@ -128,11 +134,24 @@ Dividido em 3 partes que se ossificam em épocas diferentes e apresentam formas 
 
 Apresenta um ângulo esternal e incisuras, por onde passa a jugular e que articula com os arcos costais.
 
+Tem 17 incisuras:
+
+* 1 jugular
+* 2 claviculares 
+* 14 costais (7 de cada lado)
+
 ## Costelas
 
-Costelas típicas: 3-10
+Existem **7 verdadeiras**, **3 falsas** e **2 flutuantes**.
 
-Apresentam cabeça, colo, tubérculo. Essas 3 articulam com as vértebras, nas fóveas e hemifóveas.Ângulo, curva, corpo da costela e sulco costal. Cartilagens costais articulas costelas com esterno.
+### Costelas típicas: 3-10
+
+Apresentam **cabeça**, **colo**, **tubérculo**. Essas 3 articulam com as vértebras, nas fóveas e hemifóveas.Ângulo, curva, corpo da costela e sulco costal. Cartilagens costais articulas costelas com esterno.
+
+* **Cabeça** articula com os corpos vertebrais da vertebra do numero de cima e do mesmo numero (ex: costela 3 articula cm vertabras 2 e 3). Exceção são as flutuantes
+* Colo: une cabeça e tubérculo
+* Tubérculo articula com processo transverso
+* Corpo: curva que faz o **ângulo da costela**.
 
 Atípicas:
 
