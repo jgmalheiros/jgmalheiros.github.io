@@ -77,7 +77,7 @@ Compostos químicos semelhantes às bases nitrogenadas. A polimerase não difere
 
 ### Indução de pareamentos ilegítimos
 
-* **Agendes alquilantes** doam grupo metil ou etil, que faz as bases parearem errado. Exemplo: G* • T e T* •G
+* **Agentes alquilantes** doam grupo metil ou etil, que faz as bases parearem errado. Exemplo: G* • T e T* •G
 * **Hidroxilamina** hidroxila a citosina fazendo C*•A
 * **Íons bissulfito e acido nitroso** potencializam a desaminação
 
