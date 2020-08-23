@@ -8,3 +8,7 @@
 
 [05- Sistema cardiovascular](05- Sistema cardiovascular.html)
 
+[06- Coração](06- Coração.html)
+
+[06- Coração.md.](06- Coração.md.bhtml)
+
