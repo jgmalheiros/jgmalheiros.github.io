@@ -8,3 +8,5 @@
 
 [05- Consequências das mutações](05- Consequências das mutações.html)
 
+[06- Herança mendeliana](06- Herança mendeliana.html)
+

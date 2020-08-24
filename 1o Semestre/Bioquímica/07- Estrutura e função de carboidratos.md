@@ -1,12 +1,12 @@
 # Carboidratos
 
-Vários carbonos são isomeros, mas cada um possue nome diferente. Só se usa D e L para representar em relação ao carbono mais distante do radical cetona. Moléculas epímeras só se distinguem em relação ao carbono especificado.
+Vários carbonos são isomeros, mas cada um possue nome diferente. Só se usa D e L para representar em relação ao carbono mais distante do radical cetona. Moléculas **epímeras** só se distinguem em relação ao carbono especificado.
 
 Vários carboidratos encontram-se ciclizados devido à maior estabilidade nessa forma.
 
 ![image-20200816113828534](07- Estrutura e função de carboidratos.assets/image-20200816113828534.png)
 
-Dois anômeros podem ser formados, a depender da direção do OH do carbono I
+Dois **anômeros** (moléculas que se diferenciam só na configuração do carbono hemicetal/hemiacetal)	 podem ser formados, a depender da direção do OH do carbono I
 
 Os grupos à **esquerda** ficam **para baixo**, enquanto os para **direita**, **para cima**. Nessa forma, acrescenta-se o radical -piranose no nome. Por último, a molécula pode assumir forma de **cadeira** (mais estável) ou forma de **barco**.
 
