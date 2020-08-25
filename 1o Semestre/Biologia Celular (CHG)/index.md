@@ -8,3 +8,5 @@
 
 [04- Síntese e secreção de macromoléculas](04- Síntese e secreção de macromoléculas.html)
 
+[05- Tecido epitelial de revestimento](05- Tecido epitelial de revestimento.html)
+

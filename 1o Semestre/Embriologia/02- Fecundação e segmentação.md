@@ -6,7 +6,7 @@ O primeiro obstáculo encontrado pelo espermatozóide é o **cérvix**, que deli
 
 No canal vaginal, as moléculas de colesterol presentes no citoplasma do espermatozóide são "lavadas", fazendo com que proteínas sejam expostas. Essas proteínas, quando ativadas no cérvix, aumentam a **motilidade** das células. O contato com a tuba uterina também aumenta essa motilidade.
 
-Encontrando o ovócito, o espermatozoide atravessa primeiro a **corona radiata**. Depois, encontra a zona pelúcida. Para atravessar, ocorre a **reação acrossômica**, na qual proteínas **ZP3** da zona pelúcida ativam receptores **SED1** do espermatozóide. Isso induz a liberação do conteúdo do acrossoma, principalmente enzimas **acrosina** e **hialunoridase**.
+Encontrando o ovócito, o espermatozoide atravessa primeiro a	 **corona radiata**. Depois, encontra a zona pelúcida. Para atravessar, ocorre a **reação acrossômica**, na qual proteínas **ZP3** da zona pelúcida ativam receptores **SED1** do espermatozóide. Isso induz a liberação do conteúdo do acrossoma, principalmente enzimas **acrosina** e **hialunoridase**.
 
 Uma vez que o espermatozóide passa a zona pelúcida, tem de injetar seu núcleo no ovócito, injetando também proteína **fosfoglifase CZ**, que induz o REL a liberar íons Ca++. Isso induz o fim da meiose II. Também induz a exocitose dos **grânulos corticais**, desempenham a **reação cortical** que alteram a consistência da zona pelúcida, impedindo a **poliespermia**, letal para a célula.
 

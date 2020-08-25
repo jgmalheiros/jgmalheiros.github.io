@@ -2,7 +2,7 @@
 
 ## Ligada ao cromossomo X
 
-Na mulher, um dos cromossomos  X é inativado. Isso ocorre a partir de um gene chamado **Xist**, que codifica um RNA. Esse RNA reveste todo o cromossomo, que recruta marcas histônicas e, por última, a inativação do cromossomo. O outro cromossomo terá o Xist metilado, isto é, inativado.
+Na mulher, um dos cromossomos  X é inativado. Isso ocorre a partir de um gene chamado **Xist**, que codifica um RNA. Esse RNA reveste todo o cromossomo, que recruta marcas histônicas e, por última, a inativação do cromossomo. A parte autossomica do cromossomo X resiste à inativação. O outro cromossomo terá o Xist metilado, isto é, inativado.
 
 ## Herança mitocondrial
 
