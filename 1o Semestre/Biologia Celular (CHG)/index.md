@@ -10,3 +10,5 @@
 
 [05- Tecido epitelial de revestimento](05- Tecido epitelial de revestimento.html)
 
+[06- Glândulas](06- Glândulas.html)
+
