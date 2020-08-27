@@ -56,7 +56,7 @@ Na medula óssea, células mãe originam células mielóides, que originam hemá
 
 A menor unidade muscular é a fibra. Cada fibra é coberta por endomísio. Um conjunto de fibras é um **fascículo**, que por sua vez é coberto pelo **perimísio**. Ao redor de vários fascículos há o **epimísio**. Vários epimísios convergem para formar o **tendão**, que liga as extremidades musculares aos ossos. 
 
-Quando a extremidade é cilindrica, chama-se de tendão. Quando laminares, chama-se **aponeurose**. Esses tecidos são compostos por tecido conectivo denso.
+Quando a extremidade é cilindrica, chama-se de **tendão**. Quando laminares, chama-se **aponeurose**. Esses tecidos são compostos por tecido conectivo denso.
 
 A fáscia muscular é um tecido que envolve cada músculo, permitindo que eles deslizem entre si.
 
@@ -74,7 +74,9 @@ Classificação quanto ao arranjo das fibras:
 
 * Disposição paralela das fibras:  ex: triangular, fusiforme, paralelo, etc.
 
-* Disposição oblíqua das fibras: fibras oblíquas em relação às fibras. Ex: peniformes. Podem ser unipenados ou bipenados
+* Disposição convergente: assumem forma fusiforme ou de leque.
+
+* Disposição oblíqua das fibras: fibras oblíquas em relação às fibras. Ex: peniformes. Podem ser unipenados ou bipenados. Podem ainda ser multipenados.
 
   ![image-20200814084941639](03- Sistema ósseo e muscular.assets/image-20200814084941639.png)
 
