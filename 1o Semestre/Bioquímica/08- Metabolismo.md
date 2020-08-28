@@ -4,6 +4,8 @@
 
 [bom recurso](http://homepage.ufp.pt/pedros/bq/glicolise.htm)
 
+[Mapa metabólico](http://www.metabolic-pathway.com/fullMap.html)
+
 Equação geral da glicólise:
 
 Glicose + 2NAD+ + 2ADP + 2P → 2 Piruvato + 2 ATP + 2 NADH+ + 2 H+ + 2 H2O  
@@ -50,8 +52,14 @@ Impede a síntese do piruvato pela piruvatocinase. O **fígado** apresenta um ti
 
 Em todos os tecidos, há outros tipos de piruvatocinase, moduladas positivamente por **frutose-1,6-bifosfato** e negativamente por indicadores de alta energia nas células: ATP, acetil Co-A e ácidos graxos de cadeias longas.
 
-## Destinos do piruvato
+## Sentenças
 
+### Verdadeira: a reação catalizada pela hexocinase ocorre com gasto de ATP e por isso regulá-la é eficiente na célula
 
+A fosforilação da glicose em glicose-6-fosfato ocorre com transformação de ATP em ADP, ou seja, com gasto energético da célula.
+
+### Falsa: A glicólise ocorre com gasto de ATP, uma vez que a glicose tem de ser fosforilada no processo.
+
+Apesar de a glicose ser fosforilada por ATP  na primeira etapa do processo, na segunda ocorre a formação de ATP a partir de ADP + P, dando a reação um balanço positivo de formação de ATP 
 
 {% include mathjax.html %}
