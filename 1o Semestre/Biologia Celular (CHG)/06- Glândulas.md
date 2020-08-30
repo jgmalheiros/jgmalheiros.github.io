@@ -2,6 +2,12 @@
 
 Formado por tecido epitelial glandular.
 
+Para classificar:
+
+1. Qual a natureza química do produto secretado
+2. Qual o local de secreção
+3. Como é secretado
+
 Podem ser classificadas em:
 
 * Uni/pluricelulares
@@ -9,7 +15,7 @@ Podem ser classificadas em:
 
 ## Histogênese:
 
-Ocorre a proliferação de células epiteliais, junto do crescimento da lâmina basal. As novas células se aprofundam no tecido, deixando um ducto em direção à superfície. Caso o ducto seja reabsorvido, capilares sanguineos se organizam junto às glândulas, que passam a ser endócrinas.
+Ocorre a proliferação de células epiteliais, junto do crescimento da lâmina basal. As novas células se aprofundam no tecido, deixando um ducto, **porção condutora** em direção à superfície. Essa porção mantem as características do epitélio original. A **porção secretora** altera suas características, tornando-se a glândula propriamente dita. Caso o ducto seja reabsorvido, capilares sanguineos se organizam junto às glândulas, que passam a ser endócrinas.
 
 ## Classificação de glândulas exócrinas:
 
