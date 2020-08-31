@@ -1,5 +1,7 @@
 # Glândulas
 
+estudar no capitulo de glandulas exocrinas e endocrinas
+
 Formado por tecido epitelial glandular.
 
 Para classificar:

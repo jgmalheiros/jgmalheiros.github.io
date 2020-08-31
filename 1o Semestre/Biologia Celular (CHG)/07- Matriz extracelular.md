@@ -20,15 +20,17 @@ O colágeno de cadeia alfa é sintetizado pelo RER. Rico em **prolina e lisina**
 
 O colágeno tipo III se associa formando uma rede. Nome de **fibras reticulares**.
 
-O colágeno tipo I associa formando fibras paralelas: **fibras colágenas**.
+O colágeno tipo I associa formando fibras paralelas: **fibras colágenas**.  As fibras colagenas podem ser **espessas** ou **delgadas**. As delgadas permitem maior movimento e passagem de nutrientes.
 
 ## Fibras elásticas
 
 Compostas por elastina centrais e fibrilinas ao entorno. Essas fibras podem ser:
 
 1. Oxitalânicas: mais microfibrilas
-2. Elaunínicas: muita microfibrila e pouca elastina
+2. Elaunínicas: menos microfibrila e pouca elastina
 3. Fibras elásticas maduras: Elastina dentro; microfibrilas fora.
+
+As células excretam tropoelastina, que se associam com fibrilinas formando as fibras elásticas.
 
 ## Substância fundamental amorfa
 

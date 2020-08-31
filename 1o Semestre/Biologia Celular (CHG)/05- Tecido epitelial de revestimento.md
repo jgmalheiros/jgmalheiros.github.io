@@ -1,5 +1,7 @@
 # Epitélios de revestimento
 
+estudar no capitulo de pele
+
 ## Lâmina basal
 
 A baixo do tecido epitelial há sempre uma **lâmina basal**. Ela é vista na forma de uma **lâmina densa** e uma **lâmina lúcida**. Ela é formada pelas próprias células epiteliais. Tem a função de aderir o tecido epitelial ao conjuntivo; filtração; organizar as células; etc.
