@@ -12,3 +12,5 @@
 
 [06- Coração.md.](06- Coração.md.bhtml)
 
+[07- Região glútea](07- Região glútea.html)
+
