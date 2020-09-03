@@ -16,3 +16,5 @@
 
 [09- Ciclo do ácido cítrico](09- Ciclo do ácido cítrico.html)
 
+[10- Fosforilação oxidativa](10- Fosforilação oxidativa.html)
+

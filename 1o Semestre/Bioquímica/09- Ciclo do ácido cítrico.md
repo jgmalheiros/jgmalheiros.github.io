@@ -50,6 +50,14 @@ Sempre são inibidos por moléculas que indicam energia ou pelo produto da reaç
 
 A inibição da reação que consome isocitrato leva ao acumulo de citrato, que inibe a PFK-1 (enzima glicolítica) 
 
+## Alternativas
 
+Verdadeiro: A isomerização do citrato a isocitrato é endergônica no estado padrão
+
+Sim, ocorre com variação de energia livre de gibbs positiva
+
+Falsa:  Como os intermediários do ciclo sempre são regenerados, não existem meios relevantes de reposição deles.
+
+Substâncias intermediárias do ciclo, como o oxaloacetato, são utilizadas em reações anabólicas. Por isso, é preciso que a célula seja capaz de regenerar essas substâncias, o que ocorre por meio de reações anapleróticas
 
 {% include mathjax.html %}

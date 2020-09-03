@@ -38,7 +38,7 @@ Parte do hipoblasto se diferencia em **mesoderma extraembrionário**, que ocupa 
 
 As células do endométrio formam um **tampão**, reparando o local de entrada do blastocisto.
 
-Células do mesoderma extraembrionário começam a sofrer apoptose, originando espaços que originam o **celoma extraembrionário**. Duas camadas do mesoderma extraembrionário continuam: uma adjacente ao citotrofoblasto e à cavidade corionica, formando o **mesoderma extraembrionário somático**, e outra adjacente ao saco vitelínico e ao resto, formando o **mesoderma extraembrionário esplâcnico**. 
+Células do mesoderma extraembrionário começam a sofrer apoptose, originando espaços que originam o **celoma extraembrionário**. Duas camadas do mesoderma extraembrionário continuam: uma adjacente ao foblasto e à cavidade corionica, formando o **mesoderma extraembrionário somático**, e outra adjacente ao saco vitelínico, formando o **mesoderma extraembrionário esplâcnico**. 
 
 O tecido adjacente faz com que o saco vitelínico primário seja empurrado no centro, formando uma "gota" que se separa. Passa a ser chamado **saco vitelínico secundário**. A parte que se separa é o cisto, que depois se degenera.
 
