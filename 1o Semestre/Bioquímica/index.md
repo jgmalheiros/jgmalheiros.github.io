@@ -18,3 +18,5 @@
 
 [10- Fosforilação oxidativa](10- Fosforilação oxidativa.html)
 
+[11- Degradação do gligogênio](11- Degradação do gligogênio.html)
+
