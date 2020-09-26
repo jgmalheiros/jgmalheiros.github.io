@@ -10,7 +10,7 @@
 
 [06- Coração](06- Coração.html)
 
-[06- Coração.md.](06- Coração.md.html)
+[06- Coração.md.](06- Coração.html)
 
 [07- Região glútea](07- Região glútea.html)
 
